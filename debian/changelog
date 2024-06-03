@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-openstep-plist (0.3.0-2) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Remove constraints unnecessary since buster:
+    + Build-Depends: Drop versioned constraint on cython3.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 17 Oct 2022 03:43:35 +0100
+
+python-openstep-plist (0.3.0-1) unstable; urgency=low
+
+  * Initial release. Closes: #1012453
+
+ -- Yao Wei (魏銘廷) <mwei@debian.org>  Sun, 26 Jun 2022 14:36:52 +0800
