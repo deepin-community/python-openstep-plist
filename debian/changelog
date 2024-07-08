@@ -1,3 +1,20 @@
+python-openstep-plist (0.3.1-1) unstable; urgency=medium
+
+  * Team upload.
+  * Upload to unstable.
+  * Clean correctly. (Closes: #1045798)
+
+ -- Stefano Rivera <stefanor@debian.org>  Sun, 14 Jan 2024 12:02:30 -0400
+
+python-openstep-plist (0.3.1-1~exp1) experimental; urgency=medium
+
+  * Team upload.
+  * New upstream release 0.3.1.
+  * debian/control: Build with cython 3.x. (Closes: #1056864)
+  * debian/control: Bump Standards-Version to 4.6.2.
+
+ -- Boyuan Yang <byang@debian.org>  Sun, 26 Nov 2023 15:09:12 -0500
+
 python-openstep-plist (0.3.0-2) unstable; urgency=medium
 
   [ Debian Janitor ]
