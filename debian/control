@@ -9,10 +9,10 @@ Build-Depends:
  python3-all,
  python3-all-dev,
  python3-pytest <!nocheck>,
- cython3,
+ cython3 (>= 3.0.2),
  python3-setuptools,
  python3-setuptools-scm,
-Standards-Version: 4.6.1
+Standards-Version: 4.6.2
 Homepage: https://github.com/fonttools/openstep-plist
 Vcs-Git: https://salsa.debian.org/python-team/packages/python-openstep-plist.git
 Vcs-Browser: https://salsa.debian.org/python-team/packages/python-openstep-plist
